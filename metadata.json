@@ -1,0 +1,7 @@
+{
+  "name": "BengoLink - Instant Bengali Translator",
+  "description": "Real-time, low-latency Bengali to English speech translation using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
